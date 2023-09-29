@@ -30,6 +30,12 @@ h2 {
     margin-top: 20px;
 }
 
+img {
+    margin-top: 20px;
+    align-items: center;
+    width: 200px;
+}
+
 p.normal_mood {
     font-size: 18px;
     line-height: 1.6;
